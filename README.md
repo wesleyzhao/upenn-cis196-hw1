@@ -1,3 +1,7 @@
+Link to the deployed app
+------------------------
+http://vast-island-3455.herokuapp.com/
+
 Goal of the homework
 --------------------
 Install and set-up Ruby, Rails, Git, and Heroku.
