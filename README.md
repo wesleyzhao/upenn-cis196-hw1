@@ -4,8 +4,8 @@ http://vast-island-3455.herokuapp.com/
 
 Goal of the homework
 --------------------
-Install and set-up Ruby, Rails, Git, and Heroku.
-Then deploy a basic Rails app on Heroku.
+Install and set-up Ruby, Rails, Git, and Heroku on my Ubuntu machine.\n
+Then deploy a basic Rails app on Heroku with an index page that includes my name.
 
 Issues I ran in to
 ------------------
